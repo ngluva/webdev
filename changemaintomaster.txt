@@ -1,0 +1,4 @@
+https://github.com/github/renaming
+
+it branch -m main master
+git config --global init.defaultBranch master
