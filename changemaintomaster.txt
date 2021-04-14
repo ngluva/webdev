@@ -2,3 +2,7 @@ https://github.com/github/renaming
 
 it branch -m main master
 git config --global init.defaultBranch master
+
+Another how to change
+main to master
+https://www.git-tower.com/learn/git/faq/git-rename-master-to-main/
